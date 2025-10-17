@@ -1,0 +1,233 @@
+date,route_id,route_name,region,operator,scheduled_trips,on_time_trips,delayed_trips,avg_delay_minutes,punctuality_rate,passenger_impact_score
+2020-01-01,R10,Oslo-Bergen Express,Oslo,Vy,124,89,35,4.2,71.8,2.1
+2020-01-01,R20,Stavanger Local,Stavanger,Kolumbus,89,76,13,2.8,85.4,1.5
+2020-01-01,R30,Trondheim Metro,Trondheim,AtB,156,142,14,1.9,91.0,0.9
+2020-01-01,R40,Bergen Light Rail,Bergen,Bybanen,203,187,16,2.1,92.1,0.8
+2020-02-01,R10,Oslo-Bergen Express,Oslo,Vy,118,84,34,4.5,71.2,2.3
+2020-02-01,R20,Stavanger Local,Stavanger,Kolumbus,92,79,13,2.6,85.9,1.4
+2020-02-01,R30,Trondheim Metro,Trondheim,AtB,148,135,13,1.8,91.2,0.8
+2020-02-01,R40,Bergen Light Rail,Bergen,Bybanen,198,183,15,2.0,92.4,0.8
+2020-03-01,R10,Oslo-Bergen Express,Oslo,Vy,95,59,36,6.1,62.1,3.2
+2020-03-01,R20,Stavanger Local,Stavanger,Kolumbus,76,61,15,3.2,80.3,1.8
+2020-03-01,R30,Trondheim Metro,Trondheim,AtB,134,117,17,2.4,87.3,1.3
+2020-03-01,R40,Bergen Light Rail,Bergen,Bybanen,178,162,16,2.3,91.0,1.0
+2020-04-01,R10,Oslo-Bergen Express,Oslo,Vy,45,32,13,5.8,71.1,2.9
+2020-04-01,R20,Stavanger Local,Stavanger,Kolumbus,38,31,7,3.1,81.6,1.7
+2020-04-01,R30,Trondheim Metro,Trondheim,AtB,67,58,9,2.1,86.6,1.1
+2020-04-01,R40,Bergen Light Rail,Bergen,Bybanen,89,82,7,1.9,92.1,0.8
+2020-05-01,R10,Oslo-Bergen Express,Oslo,Vy,58,42,16,4.9,72.4,2.5
+2020-05-01,R20,Stavanger Local,Stavanger,Kolumbus,48,40,8,2.9,83.3,1.5
+2020-05-01,R30,Trondheim Metro,Trondheim,AtB,78,69,9,2.0,88.5,1.0
+2020-05-01,R40,Bergen Light Rail,Bergen,Bybanen,104,96,8,1.8,92.3,0.7
+2020-06-01,R10,Oslo-Bergen Express,Oslo,Vy,89,67,22,4.1,75.3,2.1
+2020-06-01,R20,Stavanger Local,Stavanger,Kolumbus,74,63,11,2.7,85.1,1.4
+2020-06-01,R30,Trondheim Metro,Trondheim,AtB,119,107,12,1.9,89.9,0.9
+2020-06-01,R40,Bergen Light Rail,Bergen,Bybanen,158,146,12,1.7,92.4,0.7
+2020-07-01,R10,Oslo-Bergen Express,Oslo,Vy,134,102,32,3.8,76.1,1.9
+2020-07-01,R20,Stavanger Local,Stavanger,Kolumbus,112,96,16,2.5,85.7,1.3
+2020-07-01,R30,Trondheim Metro,Trondheim,AtB,178,162,16,1.8,91.0,0.8
+2020-07-01,R40,Bergen Light Rail,Bergen,Bybanen,236,219,17,1.6,92.8,0.7
+2020-08-01,R10,Oslo-Bergen Express,Oslo,Vy,145,111,34,3.9,76.6,1.9
+2020-08-01,R20,Stavanger Local,Stavanger,Kolumbus,118,101,17,2.4,85.6,1.2
+2020-08-01,R30,Trondheim Metro,Trondheim,AtB,187,171,16,1.7,91.4,0.8
+2020-08-01,R40,Bergen Light Rail,Bergen,Bybanen,248,230,18,1.5,92.7,0.7
+2020-09-01,R10,Oslo-Bergen Express,Oslo,Vy,128,97,31,4.1,75.8,2.0
+2020-09-01,R20,Stavanger Local,Stavanger,Kolumbus,105,89,16,2.6,84.8,1.3
+2020-09-01,R30,Trondheim Metro,Trondheim,AtB,167,152,15,1.8,91.0,0.8
+2020-09-01,R40,Bergen Light Rail,Bergen,Bybanen,221,205,16,1.6,92.8,0.7
+2020-10-01,R10,Oslo-Bergen Express,Oslo,Vy,112,82,30,4.4,73.2,2.2
+2020-10-01,R20,Stavanger Local,Stavanger,Kolumbus,89,75,14,2.7,84.3,1.4
+2020-10-01,R30,Trondheim Metro,Trondheim,AtB,145,131,14,1.9,90.3,0.9
+2020-10-01,R40,Bergen Light Rail,Bergen,Bybanen,194,179,15,1.7,92.3,0.8
+2020-11-01,R10,Oslo-Bergen Express,Oslo,Vy,98,71,27,4.6,72.4,2.3
+2020-11-01,R20,Stavanger Local,Stavanger,Kolumbus,78,66,12,2.8,84.6,1.4
+2020-11-01,R30,Trondheim Metro,Trondheim,AtB,126,114,12,1.9,90.5,0.9
+2020-11-01,R40,Bergen Light Rail,Bergen,Bybanen,167,154,13,1.8,92.2,0.8
+2020-12-01,R10,Oslo-Bergen Express,Oslo,Vy,87,63,24,4.8,72.4,2.4
+2020-12-01,R20,Stavanger Local,Stavanger,Kolumbus,69,58,11,2.9,84.1,1.5
+2020-12-01,R30,Trondheim Metro,Trondheim,AtB,112,101,11,2.0,90.2,1.0
+2020-12-01,R40,Bergen Light Rail,Bergen,Bybanen,148,136,12,1.9,91.9,0.8
+2021-01-01,R10,Oslo-Bergen Express,Oslo,Vy,92,69,23,4.3,75.0,2.1
+2021-01-01,R20,Stavanger Local,Stavanger,Kolumbus,73,62,11,2.6,84.9,1.3
+2021-01-01,R30,Trondheim Metro,Trondheim,AtB,118,107,11,1.8,90.7,0.9
+2021-01-01,R40,Bergen Light Rail,Bergen,Bybanen,156,144,12,1.7,92.3,0.8
+2021-02-01,R10,Oslo-Bergen Express,Oslo,Vy,89,67,22,4.1,75.3,2.0
+2021-02-01,R20,Stavanger Local,Stavanger,Kolumbus,71,61,10,2.5,85.9,1.2
+2021-02-01,R30,Trondheim Metro,Trondheim,AtB,114,104,10,1.7,91.2,0.8
+2021-02-01,R40,Bergen Light Rail,Bergen,Bybanen,151,140,11,1.6,92.7,0.7
+2021-03-01,R10,Oslo-Bergen Express,Oslo,Vy,104,79,25,3.9,76.0,1.9
+2021-03-01,R20,Stavanger Local,Stavanger,Kolumbus,83,71,12,2.4,85.5,1.2
+2021-03-01,R30,Trondheim Metro,Trondheim,AtB,134,123,11,1.6,91.8,0.8
+2021-03-01,R40,Bergen Light Rail,Bergen,Bybanen,177,164,13,1.5,92.7,0.7
+2021-04-01,R10,Oslo-Bergen Express,Oslo,Vy,118,91,27,3.7,77.1,1.8
+2021-04-01,R20,Stavanger Local,Stavanger,Kolumbus,94,81,13,2.3,86.2,1.1
+2021-04-01,R30,Trondheim Metro,Trondheim,AtB,152,140,12,1.5,92.1,0.7
+2021-04-01,R40,Bergen Light Rail,Bergen,Bybanen,201,187,14,1.4,93.0,0.7
+2021-05-01,R10,Oslo-Bergen Express,Oslo,Vy,125,97,28,3.6,77.6,1.7
+2021-05-01,R20,Stavanger Local,Stavanger,Kolumbus,99,86,13,2.2,86.9,1.1
+2021-05-01,R30,Trondheim Metro,Trondheim,AtB,159,147,12,1.4,92.5,0.7
+2021-05-01,R40,Bergen Light Rail,Bergen,Bybanen,211,196,15,1.3,92.9,0.6
+2021-06-01,R10,Oslo-Bergen Express,Oslo,Vy,142,111,31,3.4,78.2,1.6
+2021-06-01,R20,Stavanger Local,Stavanger,Kolumbus,113,99,14,2.1,87.6,1.0
+2021-06-01,R30,Trondheim Metro,Trondheim,AtB,181,168,13,1.3,92.8,0.6
+2021-06-01,R40,Bergen Light Rail,Bergen,Bybanen,239,223,16,1.2,93.3,0.6
+2021-07-01,R10,Oslo-Bergen Express,Oslo,Vy,156,123,33,3.3,78.8,1.6
+2021-07-01,R20,Stavanger Local,Stavanger,Kolumbus,124,109,15,2.0,87.9,1.0
+2021-07-01,R30,Trondheim Metro,Trondheim,AtB,199,185,14,1.2,93.0,0.6
+2021-07-01,R40,Bergen Light Rail,Bergen,Bybanen,263,246,17,1.1,93.5,0.5
+2021-08-01,R10,Oslo-Bergen Express,Oslo,Vy,161,128,33,3.2,79.5,1.5
+2021-08-01,R20,Stavanger Local,Stavanger,Kolumbus,128,113,15,1.9,88.3,0.9
+2021-08-01,R30,Trondheim Metro,Trondheim,AtB,205,191,14,1.1,93.2,0.5
+2021-08-01,R40,Bergen Light Rail,Bergen,Bybanen,271,254,17,1.0,93.7,0.5
+2021-09-01,R10,Oslo-Bergen Express,Oslo,Vy,145,116,29,3.4,80.0,1.6
+2021-09-01,R20,Stavanger Local,Stavanger,Kolumbus,115,102,13,2.0,88.7,0.9
+2021-09-01,R30,Trondheim Metro,Trondheim,AtB,184,171,13,1.2,93.0,0.6
+2021-09-01,R40,Bergen Light Rail,Bergen,Bybanen,244,228,16,1.1,93.4,0.5
+2021-10-01,R10,Oslo-Bergen Express,Oslo,Vy,128,103,25,3.6,80.5,1.7
+2021-10-01,R20,Stavanger Local,Stavanger,Kolumbus,102,90,12,2.1,88.2,1.0
+2021-10-01,R30,Trondheim Metro,Trondheim,AtB,163,151,12,1.3,92.6,0.6
+2021-10-01,R40,Bergen Light Rail,Bergen,Bybanen,216,202,14,1.2,93.5,0.6
+2021-11-01,R10,Oslo-Bergen Express,Oslo,Vy,112,90,22,3.8,80.4,1.8
+2021-11-01,R20,Stavanger Local,Stavanger,Kolumbus,89,79,10,2.2,88.8,1.0
+2021-11-01,R30,Trondheim Metro,Trondheim,AtB,142,132,10,1.4,93.0,0.7
+2021-11-01,R40,Bergen Light Rail,Bergen,Bybanen,189,177,12,1.3,93.7,0.6
+2021-12-01,R10,Oslo-Bergen Express,Oslo,Vy,98,79,19,4.0,80.6,1.9
+2021-12-01,R20,Stavanger Local,Stavanger,Kolumbus,78,69,9,2.3,88.5,1.1
+2021-12-01,R30,Trondheim Metro,Trondheim,AtB,124,115,9,1.5,92.7,0.7
+2021-12-01,R40,Bergen Light Rail,Bergen,Bybanen,165,154,11,1.4,93.3,0.7
+2022-01-01,R10,Oslo-Bergen Express,Oslo,Vy,105,86,19,3.7,81.9,1.7
+2022-01-01,R20,Stavanger Local,Stavanger,Kolumbus,83,74,9,2.1,89.2,1.0
+2022-01-01,R30,Trondheim Metro,Trondheim,AtB,133,124,9,1.3,93.2,0.6
+2022-01-01,R40,Bergen Light Rail,Bergen,Bybanen,177,166,11,1.2,93.8,0.6
+2022-02-01,R10,Oslo-Bergen Express,Oslo,Vy,99,82,17,3.5,82.8,1.6
+2022-02-01,R20,Stavanger Local,Stavanger,Kolumbus,78,70,8,2.0,89.7,0.9
+2022-02-01,R30,Trondheim Metro,Trondheim,AtB,125,117,8,1.2,93.6,0.6
+2022-02-01,R40,Bergen Light Rail,Bergen,Bybanen,166,156,10,1.1,94.0,0.5
+2022-03-01,R10,Oslo-Bergen Express,Oslo,Vy,116,97,19,3.3,83.6,1.5
+2022-03-01,R20,Stavanger Local,Stavanger,Kolumbus,92,83,9,1.9,90.2,0.9
+2022-03-01,R30,Trondheim Metro,Trondheim,AtB,147,137,10,1.1,93.2,0.5
+2022-03-01,R40,Bergen Light Rail,Bergen,Bybanen,195,183,12,1.0,93.8,0.5
+2022-04-01,R10,Oslo-Bergen Express,Oslo,Vy,132,111,21,3.1,84.1,1.4
+2022-04-01,R20,Stavanger Local,Stavanger,Kolumbus,105,95,10,1.8,90.5,0.8
+2022-04-01,R30,Trondheim Metro,Trondheim,AtB,168,157,11,1.0,93.5,0.5
+2022-04-01,R40,Bergen Light Rail,Bergen,Bybanen,222,209,13,0.9,94.1,0.4
+2022-05-01,R10,Oslo-Bergen Express,Oslo,Vy,138,117,21,3.0,84.8,1.3
+2022-05-01,R20,Stavanger Local,Stavanger,Kolumbus,109,99,10,1.7,90.8,0.8
+2022-05-01,R30,Trondheim Metro,Trondheim,AtB,175,164,11,0.9,93.7,0.4
+2022-05-01,R40,Bergen Light Rail,Bergen,Bybanen,232,219,13,0.8,94.4,0.4
+2022-06-01,R10,Oslo-Bergen Express,Oslo,Vy,153,131,22,2.8,85.6,1.2
+2022-06-01,R20,Stavanger Local,Stavanger,Kolumbus,121,110,11,1.6,90.9,0.7
+2022-06-01,R30,Trondheim Metro,Trondheim,AtB,194,182,12,0.8,93.8,0.4
+2022-06-01,R40,Bergen Light Rail,Bergen,Bybanen,257,243,14,0.7,94.6,0.3
+2022-07-01,R10,Oslo-Bergen Express,Oslo,Vy,167,143,24,2.7,85.6,1.2
+2022-07-01,R20,Stavanger Local,Stavanger,Kolumbus,132,120,12,1.5,90.9,0.7
+2022-07-01,R30,Trondheim Metro,Trondheim,AtB,212,199,13,0.7,93.9,0.3
+2022-07-01,R40,Bergen Light Rail,Bergen,Bybanen,281,266,15,0.6,94.7,0.3
+2022-08-01,R10,Oslo-Bergen Express,Oslo,Vy,172,148,24,2.6,86.0,1.1
+2022-08-01,R20,Stavanger Local,Stavanger,Kolumbus,136,124,12,1.4,91.2,0.6
+2022-08-01,R30,Trondheim Metro,Trondheim,AtB,218,205,13,0.6,94.0,0.3
+2022-08-01,R40,Bergen Light Rail,Bergen,Bybanen,289,274,15,0.5,94.8,0.3
+2022-09-01,R10,Oslo-Bergen Express,Oslo,Vy,156,134,22,2.8,85.9,1.2
+2022-09-01,R20,Stavanger Local,Stavanger,Kolumbus,123,112,11,1.5,91.1,0.7
+2022-09-01,R30,Trondheim Metro,Trondheim,AtB,198,186,12,0.7,93.9,0.3
+2022-09-01,R40,Bergen Light Rail,Bergen,Bybanen,262,248,14,0.6,94.7,0.3
+2022-10-01,R10,Oslo-Bergen Express,Oslo,Vy,139,119,20,3.0,85.6,1.3
+2022-10-01,R20,Stavanger Local,Stavanger,Kolumbus,110,100,10,1.6,90.9,0.7
+2022-10-01,R30,Trondheim Metro,Trondheim,AtB,176,165,11,0.8,93.8,0.4
+2022-10-01,R40,Bergen Light Rail,Bergen,Bybanen,233,220,13,0.7,94.4,0.4
+2022-11-01,R10,Oslo-Bergen Express,Oslo,Vy,122,104,18,3.2,85.2,1.4
+2022-11-01,R20,Stavanger Local,Stavanger,Kolumbus,96,87,9,1.7,90.6,0.8
+2022-11-01,R30,Trondheim Metro,Trondheim,AtB,154,144,10,0.9,93.5,0.4
+2022-11-01,R40,Bergen Light Rail,Bergen,Bybanen,204,193,11,0.8,94.6,0.4
+2022-12-01,R10,Oslo-Bergen Express,Oslo,Vy,108,92,16,3.4,85.2,1.5
+2022-12-01,R20,Stavanger Local,Stavanger,Kolumbus,85,77,8,1.8,90.6,0.8
+2022-12-01,R30,Trondheim Metro,Trondheim,AtB,136,127,9,1.0,93.4,0.5
+2022-12-01,R40,Bergen Light Rail,Bergen,Bybanen,180,170,10,0.9,94.4,0.4
+2023-01-01,R10,Oslo-Bergen Express,Oslo,Vy,114,98,16,3.1,86.0,1.3
+2023-01-01,R20,Stavanger Local,Stavanger,Kolumbus,90,82,8,1.6,91.1,0.7
+2023-01-01,R30,Trondheim Metro,Trondheim,AtB,144,135,9,0.8,93.8,0.4
+2023-01-01,R40,Bergen Light Rail,Bergen,Bybanen,191,180,11,0.7,94.2,0.3
+2023-02-01,R10,Oslo-Bergen Express,Oslo,Vy,107,92,15,2.9,86.0,1.2
+2023-02-01,R20,Stavanger Local,Stavanger,Kolumbus,84,77,7,1.5,91.7,0.7
+2023-02-01,R30,Trondheim Metro,Trondheim,AtB,135,127,8,0.7,94.1,0.3
+2023-02-01,R40,Bergen Light Rail,Bergen,Bybanen,179,169,10,0.6,94.4,0.3
+2023-03-01,R10,Oslo-Bergen Express,Oslo,Vy,125,108,17,2.7,86.4,1.1
+2023-03-01,R20,Stavanger Local,Stavanger,Kolumbus,98,90,8,1.4,91.8,0.6
+2023-03-01,R30,Trondheim Metro,Trondheim,AtB,157,148,9,0.6,94.3,0.3
+2023-03-01,R40,Bergen Light Rail,Bergen,Bybanen,208,196,12,0.5,94.2,0.2
+2023-04-01,R10,Oslo-Bergen Express,Oslo,Vy,141,122,19,2.5,86.5,1.0
+2023-04-01,R20,Stavanger Local,Stavanger,Kolumbus,111,102,9,1.3,91.9,0.6
+2023-04-01,R30,Trondheim Metro,Trondheim,AtB,178,168,10,0.5,94.4,0.2
+2023-04-01,R40,Bergen Light Rail,Bergen,Bybanen,235,222,13,0.4,94.5,0.2
+2023-05-01,R10,Oslo-Bergen Express,Oslo,Vy,147,128,19,2.4,87.1,1.0
+2023-05-01,R20,Stavanger Local,Stavanger,Kolumbus,116,107,9,1.2,92.2,0.5
+2023-05-01,R30,Trondheim Metro,Trondheim,AtB,186,176,10,0.4,94.6,0.2
+2023-05-01,R40,Bergen Light Rail,Bergen,Bybanen,246,233,13,0.3,94.7,0.2
+2023-06-01,R10,Oslo-Bergen Express,Oslo,Vy,163,142,21,2.2,87.1,0.9
+2023-06-01,R20,Stavanger Local,Stavanger,Kolumbus,128,118,10,1.1,92.2,0.5
+2023-06-01,R30,Trondheim Metro,Trondheim,AtB,206,195,11,0.3,94.7,0.1
+2023-06-01,R40,Bergen Light Rail,Bergen,Bybanen,272,258,14,0.2,94.9,0.1
+2023-07-01,R10,Oslo-Bergen Express,Oslo,Vy,178,156,22,2.1,87.6,0.9
+2023-07-01,R20,Stavanger Local,Stavanger,Kolumbus,140,129,11,1.0,92.1,0.4
+2023-07-01,R30,Trondheim Metro,Trondheim,AtB,225,213,12,0.2,94.7,0.1
+2023-07-01,R40,Bergen Light Rail,Bergen,Bybanen,297,282,15,0.1,95.0,0.1
+2023-08-01,R10,Oslo-Bergen Express,Oslo,Vy,183,161,22,2.0,88.0,0.8
+2023-08-01,R20,Stavanger Local,Stavanger,Kolumbus,144,133,11,0.9,92.4,0.4
+2023-08-01,R30,Trondheim Metro,Trondheim,AtB,231,219,12,0.1,94.8,0.1
+2023-08-01,R40,Bergen Light Rail,Bergen,Bybanen,306,291,15,0.0,95.1,0.0
+2023-09-01,R10,Oslo-Bergen Express,Oslo,Vy,166,146,20,2.1,88.0,0.9
+2023-09-01,R20,Stavanger Local,Stavanger,Kolumbus,131,121,10,1.0,92.4,0.4
+2023-09-01,R30,Trondheim Metro,Trondheim,AtB,210,199,11,0.2,94.8,0.1
+2023-09-01,R40,Bergen Light Rail,Bergen,Bybanen,278,264,14,0.1,95.0,0.1
+2023-10-01,R10,Oslo-Bergen Express,Oslo,Vy,148,130,18,2.3,87.8,1.0
+2023-10-01,R20,Stavanger Local,Stavanger,Kolumbus,117,108,9,1.1,92.3,0.5
+2023-10-01,R30,Trondheim Metro,Trondheim,AtB,187,177,10,0.3,94.7,0.1
+2023-10-01,R40,Bergen Light Rail,Bergen,Bybanen,248,235,13,0.2,94.8,0.1
+2023-11-01,R10,Oslo-Bergen Express,Oslo,Vy,131,115,16,2.5,87.8,1.1
+2023-11-01,R20,Stavanger Local,Stavanger,Kolumbus,103,95,8,1.2,92.2,0.5
+2023-11-01,R30,Trondheim Metro,Trondheim,AtB,164,155,9,0.4,94.5,0.2
+2023-11-01,R40,Bergen Light Rail,Bergen,Bybanen,218,206,12,0.3,94.5,0.2
+2023-12-01,R10,Oslo-Bergen Express,Oslo,Vy,116,102,14,2.7,87.9,1.2
+2023-12-01,R20,Stavanger Local,Stavanger,Kolumbus,91,84,7,1.3,92.3,0.6
+2023-12-01,R30,Trondheim Metro,Trondheim,AtB,145,137,8,0.5,94.5,0.2
+2023-12-01,R40,Bergen Light Rail,Bergen,Bybanen,193,183,10,0.4,94.8,0.2
+2024-01-01,R10,Oslo-Bergen Express,Oslo,Vy,121,107,14,2.4,88.4,1.0
+2024-01-01,R20,Stavanger Local,Stavanger,Kolumbus,95,88,7,1.1,92.6,0.5
+2024-01-01,R30,Trondheim Metro,Trondheim,AtB,152,144,8,0.3,94.7,0.1
+2024-01-01,R40,Bergen Light Rail,Bergen,Bybanen,202,192,10,0.2,95.0,0.1
+2024-02-01,R10,Oslo-Bergen Express,Oslo,Vy,114,101,13,2.2,88.6,0.9
+2024-02-01,R20,Stavanger Local,Stavanger,Kolumbus,89,83,6,1.0,93.3,0.4
+2024-02-01,R30,Trondheim Metro,Trondheim,AtB,142,135,7,0.2,95.1,0.1
+2024-02-01,R40,Bergen Light Rail,Bergen,Bybanen,189,180,9,0.1,95.2,0.1
+2024-03-01,R10,Oslo-Bergen Express,Oslo,Vy,133,119,14,2.0,89.5,0.8
+2024-03-01,R20,Stavanger Local,Stavanger,Kolumbus,104,97,7,0.9,93.3,0.4
+2024-03-01,R30,Trondheim Metro,Trondheim,AtB,166,158,8,0.1,95.2,0.1
+2024-03-01,R40,Bergen Light Rail,Bergen,Bybanen,220,209,11,0.0,95.0,0.0
+2024-04-01,R10,Oslo-Bergen Express,Oslo,Vy,149,134,15,1.8,89.9,0.7
+2024-04-01,R20,Stavanger Local,Stavanger,Kolumbus,117,109,8,0.8,93.2,0.3
+2024-04-01,R30,Trondheim Metro,Trondheim,AtB,187,178,9,0.0,95.2,0.0
+2024-04-01,R40,Bergen Light Rail,Bergen,Bybanen,248,236,12,-0.1,95.2,0.0
+2024-05-01,R10,Oslo-Bergen Express,Oslo,Vy,155,140,15,1.7,90.3,0.7
+2024-05-01,R20,Stavanger Local,Stavanger,Kolumbus,122,114,8,0.7,93.4,0.3
+2024-05-01,R30,Trondheim Metro,Trondheim,AtB,195,186,9,-0.1,95.4,0.0
+2024-05-01,R40,Bergen Light Rail,Bergen,Bybanen,258,246,12,-0.2,95.3,0.0
+2024-06-01,R10,Oslo-Bergen Express,Oslo,Vy,172,156,16,1.5,90.7,0.6
+2024-06-01,R20,Stavanger Local,Stavanger,Kolumbus,135,126,9,0.6,93.3,0.3
+2024-06-01,R30,Trondheim Metro,Trondheim,AtB,216,206,10,-0.2,95.4,0.0
+2024-06-01,R40,Bergen Light Rail,Bergen,Bybanen,285,272,13,-0.3,95.4,0.0
+2024-07-01,R10,Oslo-Bergen Express,Oslo,Vy,187,170,17,1.4,90.9,0.6
+2024-07-01,R20,Stavanger Local,Stavanger,Kolumbus,147,137,10,0.5,93.2,0.2
+2024-07-01,R30,Trondheim Metro,Trondheim,AtB,236,225,11,-0.3,95.3,0.0
+2024-07-01,R40,Bergen Light Rail,Bergen,Bybanen,312,298,14,-0.4,95.5,0.0
+2024-08-01,R10,Oslo-Bergen Express,Oslo,Vy,192,175,17,1.3,91.1,0.5
+2024-08-01,R20,Stavanger Local,Stavanger,Kolumbus,151,141,10,0.4,93.4,0.2
+2024-08-01,R30,Trondheim Metro,Trondheim,AtB,242,231,11,-0.4,95.5,0.0
+2024-08-01,R40,Bergen Light Rail,Bergen,Bybanen,320,306,14,-0.5,95.6,0.0
+2024-09-01,R10,Oslo-Bergen Express,Oslo,Vy,174,159,15,1.4,91.4,0.6
+2024-09-01,R20,Stavanger Local,Stavanger,Kolumbus,137,128,9,0.5,93.4,0.2
+2024-09-01,R30,Trondheim Metro,Trondheim,AtB,220,210,10,-0.3,95.5,0.0
+2024-09-01,R40,Bergen Light Rail,Bergen,Bybanen,291,278,13,-0.4,95.5,0.0
+2024-10-01,R10,Oslo-Bergen Express,Oslo,Vy,155,142,13,1.5,91.6,0.6
+2024-10-01,R20,Stavanger Local,Stavanger,Kolumbus,122,114,8,0.6,93.4,0.3
+2024-10-01,R30,Trondheim Metro,Trondheim,AtB,196,187,9,-0.2,95.4,0.0
+2024-10-01,R40,Bergen Light Rail,Bergen,Bybanen,260,248,12,-0.3,95.4,0.0
