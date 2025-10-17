@@ -67,13 +67,29 @@ st.markdown("""
 def load_data():
     """Load processed punctuality data"""
     try:
-        data_path = Path(__file__).parent.parent.parent / "data" / "processed" / "punctuality_insights_processed.csv"
-        df = pd.read_csv(data_path)
-        df['date'] = pd.to_datetime(df['date'])
-        return df
-    except FileNotFoundError:
+        # Try multiple path configurations for local and Streamlit Cloud environments
+        base_paths = [
+            Path(__file__).parent.parent.parent,  # Local development 
+            Path("."),  # Streamlit Cloud root
+            Path(__file__).resolve().parents[2],  # Alternative path
+        ]
+        
+        for base_path in base_paths:
+            data_path = base_path / "data" / "processed" / "punctuality_insights_processed.csv"
+            if data_path.exists():
+                df = pd.read_csv(data_path)
+                df['date'] = pd.to_datetime(df['date'])
+                st.success(f"✅ Data loaded from: {data_path}")
+                return df
+        
+        # If no data file found, show error
         st.error("❌ Data file not found. Please run the data processing pipeline first.")
         st.info("Run: `python -m src.analysis.prepare` from the project root")
+        return None
+        
+    except Exception as e:
+        st.error(f"❌ Error loading data: {str(e)}")
+        st.info("💡 Please ensure data processing is complete: python -m src.analysis.prepare")
         return None
 
 def create_performance_overview(df):
